@@ -18,9 +18,9 @@
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/contact-image.jpg').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/contact-image.jpg').srcSet
                   "
                 />
               </figure>
@@ -28,15 +28,20 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    BERGEN SWAMP PRESERVATION SOCIETY
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  Address: P.O. Box 460, Bergen, NY 14416-0460
+                </p>
+                <p>
+                  Country: USA
+                </p>
+                <p>
+                  E-mail: bsps@bergenswamp.org
+                </p>
+                <p>
+                  Phone: (585) 548-7304
                 </p>
               </div>
             </article>
