@@ -4,7 +4,7 @@ subtitle: "ISTE 501 "
 trail:
   - Pocock Trail
 author: Team 404
-date: 2020-09-15T21:18:12.195Z
+date: 2020-09-15T21:19:15.333Z
 featureImage: /uploads/fourth.jpg
 ---
 Spicy jalapeno bacon ipsum dolor amet officia bacon jowl shoulder, strip steak cupim sed ex frankfurter chuck et buffalo. Tongue in tempor, in ut ball tip aliquip id shank. Bresaola beef esse picanha, pork ground round consectetur. Picanha deserunt non spare ribs pastrami ham frankfurter anim excepteur quis voluptate qui. Short ribs qui chuck exercitation tri-tip sausage. Tenderloin pork fatback anim swine. Short ribs in rump dolore.
