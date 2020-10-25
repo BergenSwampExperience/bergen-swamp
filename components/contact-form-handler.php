@@ -2,7 +2,9 @@
 
 $errors = '';
 
-$myemail = "yxz8501@rit.edu";//<—–Put Your email address here. if(empty($_POST['name']) ||
+$myemail = "yxz8501@rit.edu";
+
+if(empty($_POST['name']) ||
 
 empty($_POST['email']) ||
 
