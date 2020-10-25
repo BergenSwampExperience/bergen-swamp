@@ -64,13 +64,13 @@
   </div>
 </template>
 <script>
-import ContactForm from '~/components/ContactForm'
+import ContactForm from '~/components/ContactUs'
 export default {
   head() {
     return {
       title: `Contact | ${this.$siteConfig.siteName}`
     }
   },
-  components: { ContactForm }
+  components: { ContactUs }
 }
 </script>
