@@ -1,5 +1,5 @@
 <template>
-  <form method="post" action="contact-form-handler.php">
+  <form method="post" action="mailto:yxz8501@rit.edu" enctype="test/plain">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
