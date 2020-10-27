@@ -13,7 +13,7 @@
           :alt="$siteConfig.siteName"
           class="logo"
         />
-        <span class="whiteTxt" style="margin-left:5px;">Bergen Swamp Preservation Society</span>
+        <span style="margin-left:5px;">Bergen Swamp Preservation Society</span>
       </nuxt-link>
       <hamburger-button @click="active = !active" />
     </div>
@@ -41,7 +41,7 @@
             {{ item.name }}
           </component>
         </li>
-        <li class="whiteTxt navbar-item site-search-wrapper">
+        <li class="navbar-item site-search-wrapper">
           <site-search />
         </li>
       </ul>
@@ -85,12 +85,12 @@ export default {
   background: #00283A;
 }
 
-.navbar a{
+.navbar a, .navbar svg{
   color: white;
   transition: .25s color;
 }
 
-.navbar a:hover{
+.navbar a:hover, .navbar svg:hover{
   color: #92c500;
   transition: .25s color;
 }
