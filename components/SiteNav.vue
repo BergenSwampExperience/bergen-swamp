@@ -85,12 +85,12 @@ export default {
   background: #00283A;
 }
 
-.navbar-menu a{
+.navbar a{
   color: white;
   transition: .25s color;
 }
 
-.navbar-menu a:hover{
+.navbar a:hover{
   color: #e7e7e7;
   transition: .25s color;
 }
