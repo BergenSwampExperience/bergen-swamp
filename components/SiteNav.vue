@@ -85,12 +85,12 @@ export default {
   background: #00283A;
 }
 
-.navbar *{
+.navbar a, .whiteSearch{
   color: white;
   transition: .25s color;
 }
 
-.navbar *:hover{
+.navbar a:hover, .whiteSearch:hover{
   color: #92c500;
   transition: .25s color;
 }
@@ -99,4 +99,7 @@ export default {
   color:black;
 }
 
+// .whiteTxt {
+//   color: white;
+// }
 </style>
