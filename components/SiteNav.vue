@@ -42,7 +42,7 @@
           </component>
         </li>
         <li class="navbar-item site-search-wrapper">
-          <site-search />
+          <site-search class="whiteSearch"/>
         </li>
       </ul>
     </div>
@@ -85,12 +85,12 @@ export default {
   background: #00283A;
 }
 
-.navbar a, .site-search-wrapper svg{
+.navbar a, .whiteSearch{
   color: white;
   transition: .25s color;
 }
 
-.navbar a:hover, .site-search-wrapper svg:hover{
+.navbar a:hover, .whiteSearch{
   color: #92c500;
   transition: .25s color;
 }
