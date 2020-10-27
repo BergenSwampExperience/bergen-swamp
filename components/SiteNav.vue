@@ -85,12 +85,12 @@ export default {
   background: #00283A;
 }
 
-.navbar *{
+.navbar a, .site-search-wrapper svg{
   color: white;
   transition: .25s color;
 }
 
-.navbar *:hover{
+.navbar a:hover, .site-search-wrapper svg:hover{
   color: #92c500;
   transition: .25s color;
 }
