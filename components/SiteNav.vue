@@ -90,7 +90,7 @@ export default {
   transition: .25s color;
 }
 
-.navbar a:hover, .whiteSearch{
+.navbar a:hover, .whiteSearch:hover{
   color: #92c500;
   transition: .25s color;
 }
