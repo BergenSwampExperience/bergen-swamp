@@ -91,7 +91,7 @@ export default {
 }
 
 .navbar a:hover{
-  color: #e7e7e7;
+  color: #92c500;
   transition: .25s color;
 }
 
