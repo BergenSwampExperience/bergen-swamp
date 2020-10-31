@@ -1,5 +1,5 @@
 <template>
-  <form method="post" action="mailto:yxz8501@rit.edu" enctype="text/plain">
+  <form>
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
