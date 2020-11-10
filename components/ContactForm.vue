@@ -61,5 +61,6 @@
 </template>
 
 <style scoped>
-.button:hover{color:#92c500}
+.button{transition: .25s color;}
+.button:hover{color:#92c500; transition: .25s color;}
 </style>
