@@ -59,3 +59,7 @@
     </div>
   </form>
 </template>
+
+<style scoped>
+.button:hover{color:#92c500}
+</style>
